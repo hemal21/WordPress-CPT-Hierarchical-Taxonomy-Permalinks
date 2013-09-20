@@ -1,4 +1,4 @@
-# WordPress CPT Hierarchical Taxonomy Permalinks #
+## WordPress CPT Hierarchical Taxonomy Permalinks ##
 
 Ever wanted to have custom taxonomy permalinks that reflect parent/child relation?
 Then this is for you. Still in development though.
