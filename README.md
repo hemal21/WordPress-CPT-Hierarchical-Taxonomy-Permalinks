@@ -14,7 +14,6 @@ If you try this code, remember to flush your permalinks. Go to 'settings->permal
 
 #### Known Bugs ####
 - When a 'photo' is published without any taxonomy, the URL url.tld/photos/john does not work.
-- The full URL url.tld/photos/family/kids/john/ has an unwanted trailing slash.
 
 #### Contributions ####
 Anyone is welcome to contribute. There are various ways you can contribute:
